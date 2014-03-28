@@ -1,11 +1,9 @@
 Canada eCoin integration/staging tree
 ================================
 
-http://www.canadaecoin.org
-
-- Copyright (c) 2009-2013 Bitcoin Developers
-- Copyright (c) 2011-2013 Litecoin Developers
-- Copyright (c) 2014 Canada eCoin Developers
+-- Copyright (c) 2009-2013 Bitcoin Developers
+-- Copyright (c) 2011-2013 Litecoin Developers
+-- Copyright (c) 2014 Canada eCoin Developers
 
 What is Canada eCoin?
 ----------------
