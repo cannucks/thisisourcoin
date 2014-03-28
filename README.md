@@ -1,4 +1,4 @@
-Canada eCoin integration/staging tree
+Canada eCoin
 ================================
 
 Copyright (c) 2009-2013 Bitcoin Developers  
@@ -8,19 +8,19 @@ Copyright (c) 2014 Canada eCoin Developers
 What is Canada eCoin?
 ----------------
 
-A scrypt-based crypto currency that supports merged mining (as per USC code base).
+A scrypt-based crypto currency that supports merged mining (as per USC code base).  
 
-Total coins: 100,000,000
-Block time: 30 seconds
-Block maturity/confirmations: 100
-Diff re-target: once daily
+Total coins: 100,000,000  
+Block time: 30 seconds  
+Block maturity/confirmations: 100  
+Diff re-target: once daily  
 
-Blocks 0-500: 25 eCoins
-Blocks 501-1000: 50 eCoins
-Blocks 1001-2000: 75 eCoins
-Blocks 2001+: 100 eCoins
+Blocks 0-500: 25 eCoins  
+Blocks 501-1000: 50 eCoins  
+Blocks 1001-2000: 75 eCoins  
+Blocks 2001+: 100 eCoins  
 
-Halving at block 500,000 from 100 eCoins per block, to 50 eCoins per block.
+Halving at block 500,000 from 100 eCoins per block, to 50 eCoins per block.  
 
 License
 -------
